@@ -3,4 +3,5 @@ Console.WriteLine("Hello, World!");
 Console.ReadLine();
 Console.WriteLine("What is your name");
 string name=Console.ReadLine();
+Console.WriteLine("What is your surname");
 Console.ReadLine();
